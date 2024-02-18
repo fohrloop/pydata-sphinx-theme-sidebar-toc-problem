@@ -15,4 +15,7 @@ Classes
 .. autoclass:: mypkg.AnotherClass
     :members:
 
+.. autoclass:: mypkg.ThirdClass
+    :members:
+    
 ```
