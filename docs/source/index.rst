@@ -1,7 +1,6 @@
 API Reference 
 ---------------
 
-```{eval-rst}
 
 A list of functions
 --------------------
@@ -18,4 +17,3 @@ Classes
 .. autoclass:: mypkg.ThirdClass
     :members:
     
-```
