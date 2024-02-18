@@ -8,6 +8,7 @@ API Reference
     mypkg.somefunc 
     mypkg.anotherfunc
     mypkg.SomeClass
+    mypkg.AnotherClass
 
 A list of functions
 --------------------
@@ -19,6 +20,9 @@ Classes
 Here are classes for mypkg.
 
 .. autoclass:: mypkg.SomeClass
+    :members:
+
+.. autoclass:: mypkg.AnotherClass
     :members:
 
 ```
