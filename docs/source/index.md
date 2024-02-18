@@ -1,7 +1,21 @@
-Welcome to foo's documentation!
-===============================
+API Reference 
+---------------
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+```{eval-rst}
 
+A list of functions
+--------------------
+.. autofunction:: mypkg.somefunc 
+
+Classes
+-------
+.. autoclass:: mypkg.SomeClass
+    :members:
+
+.. autoclass:: mypkg.AnotherClass
+    :members:
+
+.. autoclass:: mypkg.ThirdClass
+    :members:
+    
+```
