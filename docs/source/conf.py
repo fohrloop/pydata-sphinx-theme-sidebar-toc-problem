@@ -27,5 +27,6 @@ html_static_path = ["_static"]
 
 
 extensions = [
+    "myst_parser",
     "sphinx.ext.autosummary",
 ]
